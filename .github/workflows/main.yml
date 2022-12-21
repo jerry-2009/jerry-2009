@@ -29,7 +29,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_display: large
           config_timezone: Etc/GMT+12
           plugin_code: yes
           plugin_code_days: 3
